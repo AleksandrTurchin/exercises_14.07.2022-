@@ -66,9 +66,9 @@ print(dictionary)
 
 print()
 
-x = 0
+y = 0
 dictionary = {}
 for i in list_1:
-  dictionary[i] = list_2[x]
-  x += 1
+  dictionary[i] = list_2[y]
+  y += 1
 print(dictionary)
